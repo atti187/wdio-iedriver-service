@@ -51,6 +51,8 @@ export.config = {
   // ...
   services: ['iedriver'],
   // ...
+  // options (optional)
+  ieDriverLogs: './'
 };
 ```
 
@@ -65,6 +67,7 @@ Type: `String`
 Whether to force all instances of Internet Explorer to be closed after the test. Please note that this option will kill all instances, not only those spawned by IEDriverServer!
 
 Type: `Boolean`
+
 Default: `false`
 
 ----
