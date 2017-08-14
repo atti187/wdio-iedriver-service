@@ -29,7 +29,7 @@
   "homepage": "https://github.com/atti187/wdio-iedriver-service#readme",
   "dependencies": {
     "fs-extra": "^0.30.0",
-    "iedriver": "https://github.com/atti187/node-iedriver"
+    "iedriver": "https://github.com/barretts/node-iedriver"
   },
   "devDependencies": {
     "babel": "^6.5.2",
