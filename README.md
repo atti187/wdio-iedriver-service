@@ -70,6 +70,11 @@ Type: `Boolean`
 
 Default: `false`
 
+### port
+Port number where IEDriver will listen. Default is 5555.
+
+Type: `String`
+
 ----
 
 For more information on WebdriverIO see the [homepage](http://webdriver.io).
